@@ -27,7 +27,7 @@ We combine innovation and expertise to ensure your business stays ahead in a fas
 
 ## 👥 Meet Our Team
 
-* **Gatdong Kim** – Founder & Software Developer
+* **Gatdong Kim** – Founder & CEO
 * **Shamjok Gony** – IT Support Professional
 * **Wuor Bhang** – Full Stack Developer
 * **Chai Gatkek** – Digital Marketing Specialist
@@ -42,8 +42,8 @@ We combine innovation and expertise to ensure your business stays ahead in a fas
 
 ## 📬 Connect for Solutions
 * **Website:** [manlhamtechsupport.vercel.app](https://manlhamtechsupport.vercel.app/)
-* **Email:** mts.manlham@gmail.com
+* **Email:** support.manlham@gmail.com
 * **Location:** Nyirol, Jonglei, South Sudan
-* **Phone:** (+211) 929-267673
+* **Phone:** +211 (0) 929-267-673
 
 *✨ "We believe in building lasting relationships by delivering result-driven IT solutions."*
